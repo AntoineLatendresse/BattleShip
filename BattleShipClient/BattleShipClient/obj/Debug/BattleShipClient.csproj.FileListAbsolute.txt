@@ -1,1 +1,5 @@
 C:\Users\201087112\Desktop\BattleShipClient\BattleShipClient\bin\Debug\BattleShipClient.exe.config
+C:\Users\201087112\Desktop\BattleShip\BattleShipClient\BattleShipClient\bin\Debug\BattleShipClient.exe.config
+C:\Users\201087112\Desktop\BattleShip\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.csprojResolveAssemblyReference.cache
+C:\Users\201087112\Desktop\BattleShip\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.Properties.Resources.resources
+C:\Users\201087112\Desktop\BattleShip\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.Cache
