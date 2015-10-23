@@ -1,1 +1,10 @@
 C:\Users\201087112\Desktop\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.exe.config
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.exe.config
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.exe
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.pdb
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.csprojResolveAssemblyReference.cache
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.BattleShipServeur.resources
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.Properties.Resources.resources
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.csproj.GenerateResource.Cache
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.exe
+C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.pdb
