@@ -1,5 +1,4 @@
-C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\Battleship_Game.csprojResolveAssemblyReference.cache
-C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.Properties.Resources.resources
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.GameUnits.resources
 C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\Battleship_Game.csproj.GenerateResource.Cache
-C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.exe
-C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.pdb
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.Properties.Resources.resources
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.exe.config

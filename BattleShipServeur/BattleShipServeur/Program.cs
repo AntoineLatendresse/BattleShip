@@ -16,7 +16,7 @@ namespace BattleShipServeur
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BattleShipServeur());
+            Application.Run(new GameUnits());
         }
     }
 }

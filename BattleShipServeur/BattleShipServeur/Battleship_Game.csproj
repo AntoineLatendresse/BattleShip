@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BattleShipServeur</RootNamespace>
     <AssemblyName>BattleShipServeur</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -31,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>battleship_weapon_128px_12617_easyicon.net.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,7 +48,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game.cs" />
     <Compile Include="GameUnits.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -53,6 +56,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GameUnits.resx">
+      <DependentUpon>GameUnits.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -77,22 +83,26 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Aircraft_Carrier.png" />
+    <Content Include="battleship_weapon_128px_12617_easyicon.net.ico" />
+    <Content Include="Resources\Aircraft_Carrier.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\My Ships %282%29.jpg" />
+    <None Include="Resources\Submarine.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\My Ships %283%29.jpg" />
+    <None Include="Resources\Destroyer.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\My Ships %284%29.jpg" />
+    <None Include="Resources\Patrol_Boat.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\My Ships %285%29.jpg" />
+    <None Include="Resources\Battleship.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\My Ships %286%29.jpg" />
+    <ProjectReference Include="..\Battleship_Client\Battleship_Client.csproj">
+      <Project>{0b954b68-41ee-47b8-a364-3722bc4f8dd3}</Project>
+      <Name>Battleship_Client</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

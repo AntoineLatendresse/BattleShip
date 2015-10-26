@@ -1,0 +1,7 @@
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\bin\Debug\Battleship_Server.exe.config
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\bin\Debug\Battleship_Server.exe
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\bin\Debug\Battleship_Server.pdb
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\obj\Debug\Battleship_Server.Properties.Resources.resources
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\obj\Debug\Battleship_Server.csproj.GenerateResource.Cache
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\obj\Debug\Battleship_Server.exe
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Server\obj\Debug\Battleship_Server.pdb

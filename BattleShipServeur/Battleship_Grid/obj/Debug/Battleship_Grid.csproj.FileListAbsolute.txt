@@ -1,0 +1,4 @@
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Grid\bin\Debug\Battleship_Grid.dll
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Grid\bin\Debug\Battleship_Grid.pdb
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Grid\obj\Debug\Battleship_Grid.dll
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\Battleship_Grid\obj\Debug\Battleship_Grid.pdb
