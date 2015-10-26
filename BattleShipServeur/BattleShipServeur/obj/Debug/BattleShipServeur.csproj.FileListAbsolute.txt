@@ -8,3 +8,6 @@ C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServe
 C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.csproj.GenerateResource.Cache
 C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.exe
 C:\Users\200755008\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.pdb
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\bin\Debug\BattleShipServeur.exe.config
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.exe
+C:\Users\DYaGC\Documents\GitHub\BattleShip\BattleShipServeur\BattleShipServeur\obj\Debug\BattleShipServeur.pdb

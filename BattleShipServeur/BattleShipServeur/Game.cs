@@ -1,0 +1,8 @@
+﻿
+namespace BattleShipServeur
+{
+    class Game
+    {
+
+    }
+}
